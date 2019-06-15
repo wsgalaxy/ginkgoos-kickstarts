@@ -14,7 +14,6 @@
 @gnome-desktop
 @guest-desktop-agents
 @hardware-support
-@libreoffice
 @multimedia
 @networkmanager-submodules
 @printing
@@ -23,5 +22,16 @@
 # Exclude unwanted packages from @anaconda-tools group
 -gfs2-utils
 -reiserfs-utils
+
+# Exclude libreoffice suit
+-unoconv
+
+# Add more packages
+gnome-tweaks
+vim-enhanced
+gimp
+pitivi
+dconf-editor
+thunderbird
 
 %end

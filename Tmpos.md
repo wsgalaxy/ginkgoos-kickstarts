@@ -4,10 +4,18 @@
 
 # 进度
 ## Desktop
-- [ ] 删除libreoffice
+- [x] 删除libreoffice
+- [x] 添加gnome-tweaks
+- [x] 添加vim-enhanced
+- [ ] 添加视频解码器（totem、firefox）
+- [ ] 添加rpmfusion
+- [x] 添加gimp
+- [x] 添加pitivi
+- [x] 添加dconf-editor
+- [x] 添加thunderbird
 - [ ] 添加dash to dock扩展
 - [ ] 添加Arc menu扩展
-- [ ] 优化gnome desktop: 标题栏控制按钮
+- [ ] 优化gnome desktop: 标题栏控制按钮，字体优化
 - [ ] 添加chrome浏览器
 - [ ] 添加flatpak支持
 - [ ] 添加wps, tim, 微信, 百度云, 迅雷, 网易云音乐
